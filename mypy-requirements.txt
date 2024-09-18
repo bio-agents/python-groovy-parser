@@ -1,0 +1,4 @@
+types-setupagents
+types-Pygments
+typing-extensions
+
